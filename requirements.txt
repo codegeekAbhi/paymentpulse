@@ -1,0 +1,8 @@
+faker
+fastapi
+groq
+nest-asyncio
+pandas
+pydantic
+pyngrok
+uvicorn
