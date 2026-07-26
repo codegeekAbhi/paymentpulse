@@ -1,10 +1,11 @@
-# paymentpulse
+# PaymentPulse
 AI powered payment failure intelligence platform. Classifies failed transactions with Llama via Groq, scores its own confidence, and routes uncertain cases to a human review queue.
 #python #fastapi #sqlite #streamlit #llm #groq #llama #payments #fintech #human-in-the-loop #ai-agents
 
-# PaymentPulse Dashboard
+# Dashboard
 
 A Streamlit view of routing outcomes and the human review queue, reading directly from the same SQLite database the main pipeline writes to.
+Live App link : https://paymentpulse.streamlit.app/
 
 ## Prerequisites
 
