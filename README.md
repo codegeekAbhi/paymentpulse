@@ -5,7 +5,10 @@ AI powered payment failure intelligence platform. Classifies failed transactions
 # Dashboard
 
 A Streamlit view of routing outcomes and the human review queue, reading directly from the same SQLite database the main pipeline writes to.
+
 Live App link : https://paymentpulse.streamlit.app/
+
+lovable link : https://paymentpulse-insight-hub.lovable.app
 
 ## Prerequisites
 
